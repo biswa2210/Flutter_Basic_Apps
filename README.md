@@ -60,7 +60,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <div align="center">
  
-<a href="pics/i1.jpeg"><img src="pics/i1.jpeg" width="250" height= "500"></a> <a href="pics/i2.jpeg"><img src="pics/i2.jpeg" width="250" height= "500"></a> <a href="pics/i3.jpeg"><img src="pics/i3.jpeg" width="250" height= "500"></a>
+<a href="r.jpeg"><img src="r.jpeg" width="250" height= "500"></a> 
 
 </div>
 
