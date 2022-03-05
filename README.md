@@ -20,29 +20,28 @@ https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.
 
 <div align="justified">
      
-
+This is a basic flutter app named 'I am Poor'. Here it is written 'I am poor' and a images is there of a waste paper.
+     
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href=" " download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1MDCxwMDJqMzZVS9dQbj0naSGrKW2FOMC/view?usp=sharing" download>Click here to download</a>
 
 ## Purpose :point_down:
 
-
-
-## Use :point_down:
-
-
-
-## Importance :point_down:
-
-
+I have made this to practice flutter concepts.
 
 ## Folder Structure :point_down:
-
+```bash
+i-am-poor-app
+     ├── lib
+     |    └── main.dart
+     └── test
+          └── widget.test.dart
+```     
                      
 ## Making :point_down:
 
-This flutter application is totally responsive. When we change the orientation the app fits in that. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend. I have designed this using [Materials ui](https://material-ui.com/). I have created database using [sql](https://en.wikipedia.org/wiki/SQL) where the notes are kept in table. I have loaded the entire app in main.dart.
+This flutter application is totally responsive. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/). I have loaded the entire app in main.dart.
 
 ## Getting Started :point_down: 
 
@@ -61,19 +60,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <div align="center">
  
-<a href="pics/n1.jpeg"><img src="pics/n1.jpeg" width="250" height= "500"></a> <a href="pics/n2.jpeg"><img src="pics/n2.jpeg" width="250" height= "500"></a> <a href="pics/n3.jpeg"><img src="pics/n3.jpeg" width="250" height= "500"></a>
+<a href="pics/i1.jpeg"><img src="pics/i1.jpeg" width="250" height= "500"></a> <a href="pics/i2.jpeg"><img src="pics/i2.jpeg" width="250" height= "500"></a> <a href="pics/i3.jpeg"><img src="pics/i3.jpeg" width="250" height= "500"></a>
 
 </div>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
