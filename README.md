@@ -1,7 +1,6 @@
 # i_am_rich_app :star_struck: :memo: :iphone: :notebook: 
 
-[![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-SQL-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sqflite-any-crimson)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/path__provider-any-pink)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/%20%20intl-any-skyblue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/auto__size__text-%5E2.1.0-deepblue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](
-https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/)
 
 ***This new flutter application 'i-am-rich-app' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -23,6 +22,10 @@ https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.
 This is a basic flutter app named 'I am Rich'. Here it is written 'I am rich' and a images is there of a DIAMOND.
      
 </div>
+
+## I AM RICH DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=Jnhv7ZzW2To&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=3">Click here to watch</a>
+
+## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
 
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1Houem4HfBjeUS7w0fzGcRH03hl6ehvIL/view?usp=sharing" download>Click here to download</a>
 
