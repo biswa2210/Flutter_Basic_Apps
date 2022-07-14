@@ -24,6 +24,10 @@ This is a basic flutter app named 'I am Poor'. Here it is written 'I am poor' an
      
 </div>
 
+## I AM POOR APP DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=PMam7Yrkh-w&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=2">Click here to watch</a>
+
+## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1MDCxwMDJqMzZVS9dQbj0naSGrKW2FOMC/view?usp=sharing" download>Click here to download</a>
 
 ## Purpose :point_down:
